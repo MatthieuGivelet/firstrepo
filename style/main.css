@@ -1,0 +1,27 @@
+header {
+    height: 65px;
+}
+
+.navbar {
+    box-shadow: 0px 0px 20px 10px rgba(0,0,0,0.2);  
+}
+
+.card {
+    margin: 1em;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 0px 30px 5px rgba(0,0,0,0.2);
+}
+
+.card img {
+    border-radius: 10px 10px 0 0;
+}
+
+i {
+    color: rgb(168, 120, 212);
+    padding-left: .3em;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
